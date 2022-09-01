@@ -16,17 +16,13 @@ recently added folder named `R4vers Thumbparams Quest` and  simply drag the anim
 into your gesture layer on your `VRC Avatar Descriptor`.
 
 ## How to use
-In the unpacked release folder you'll find a folder named `ROVRC`. This is a very very early release of my OSC bundle program which interacts with OpenVR to read your thumb position on 
+In the unpacked release folder you'll find a folder named `rosc_thumbparams_standalone`. This is a standalone version of my thumb parameter module (OSC) which interacts with OpenVR to read your thumb position on 
 your Quest controller as well as Index controllers and assign a number to a given thumb position.
 
 1. Start SteamVR / Game.
-2. Navigate to the `ROVRC` folder.
-3. Find the .exe file named `ROVRC` and launch it.
-4. Go to the `Thumb Parameters` tab and toggle the module on in the top right.
-5. It should register which controller type you are using (Quest or Index) and also if it's connected to OVR.
+2. Navigate to the `rosc_thumbparams_standalone` folder.
+3. Find the .exe file named `thumbparameters` and launch it.
 6. Open up the game if you haven't already and try any of the combos in the list below.
-
-This program is being reworked, but have no ETA currently.
 
 ## Gesture layout
 I've tried my best to make the overall flow of things feel natural to what you are doing in real life,
