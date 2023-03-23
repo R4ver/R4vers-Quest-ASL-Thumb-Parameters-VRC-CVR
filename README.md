@@ -54,6 +54,7 @@ Top = `Y / B` | Bottom = `X / A` | Both = `B + A / Y + X` | Stick = `Thumb stick
 |         W        |                       Bottom + Trigger                       |
 |         X        |                         Bottom + Grip                        |
 | 25 / Middle down |                   Stick + OP Bottom + Grip                   |
+|      Flat B      |                   Stick + OP Both + Rest                     |
 |      Flat O      |                 Stick + OP Both + Rest + Grip                |
 |      Bend V      |                        Stick + OP Both                       |
 |       IRLY       |                  Stick + OP Bottom + Trigger                 |
@@ -67,6 +68,14 @@ NOTE: I've excluded general letters that are not directly using the parameters, 
 If you encounter any issues, feel free to open an issue here on github as I won't help on eg. Discord to keep things organized and easier to track.
 
 Do feel free to ask me questions in VRC or CVR should you see me and I'm not currently occupied with something else. 
+
+# Changelog
+1.1.0
+- Added `Flat B` + changed how you active `Falt B` and `Flat O` (see above)
+- Fixed minor issues.
+
+1.0.0
+- Initial release
 
 # License
 The MIT License (MIT)
